@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riasarkar162&label=Profile%20views&color=0e75b6&style=flat" alt="riasarkar162" /> </p>
 
+- 🔭 I’m currently working on **API Testing.**
+
 - 📫 How to reach me **riasarkar1001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
