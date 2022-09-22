@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SQA Field**
 
-- 🌱 I’m currently learning **Performance Testing.**
+- 🌱 I’m currently learning **Automation Testing.**
 
 - 💬 Ask me anything about **Manual Testing**
 
