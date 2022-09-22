@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riasarkar162&label=Profile%20views&color=0e75b6&style=flat" alt="riasarkar162" /> </p>
 
-- 🔭 I’m currently working on **SQA Field**
+- 🔭 I’m currently working on **SQA Field.**
 
 - 🌱 I’m currently learning **Automation Testing.**
 
-- 💬 Ask me anything about **Manual Testing**
+- 💬 Ask me anything about **Manual Testing.**
 
 - 📫 How to reach me **riasarkar1001@gmail.com**
 
