@@ -10,7 +10,7 @@
 
 - 💬 Ask me anything about **Manual Testing.**
 
-- 📫 How to reach me **riasarkar1001@gmail.com**
+- 📫 How to reach me **ria.sarkar162@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
