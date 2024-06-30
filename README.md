@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **SQA Field.**
 
-- 🌱 I’m currently learning **Automation Testing.**
+- 🌱 I’m currently learning **Security Testing.**
 
-- 💬 Ask me anything about **Manual Testing.**
+- 💬 Ask me anything about **Manual Testing, API Testing**
 
 - 📫 How to reach me **ria.sarkar162@gmail.com**
 
