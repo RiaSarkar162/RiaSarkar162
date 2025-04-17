@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Security Testing.**
 
-- 💬 Ask me anything about **Manual Testing, API Testing**
+- 💬 Ask me anything about **Manual Testing, API Testing, API Automation Testing, Performance Testing**
 
 - 📫 How to reach me **ria.sarkar162@gmail.com**
 
